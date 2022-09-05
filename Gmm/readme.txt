@@ -1,0 +1,11 @@
+0:tank_move
+1:tank_shoot
+2:truck_move
+3:truck_horn
+4:train_move
+5:train_horn
+6:fighter
+7:helicopter
+8:motorcycle
+9:missile
+运行Test_GMM.py文件
